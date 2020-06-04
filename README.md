@@ -1,1 +1,5 @@
-Deisgn with HTML, CSS, & Bootstrap
+# Static Website
+
+Design with html,css, and bootstrap
+
+All file are uploaded typewise in seprate folders
