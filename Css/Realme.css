@@ -1,0 +1,81 @@
+.navbar{
+    background-color: rgb(240, 165, 53) !important;
+}
+
+.nav-link{
+    font-weight: bold !important;
+  
+}
+
+.fa-shopping-cart,.fa-user-circle{
+    font-size: 28px !important;
+}
+
+.navbar-brand>img{height: 85px; width:140px;margin-left: 35px;}
+.comingsoon>h2{text-align: center;margin-top: 50px;margin-bottom: 50px;font-size: 3em;
+    font-weight: bold;color: rgb(233, 150, 25);text-shadow: 4px 4px 4px black;letter-spacing: 5px;}
+    
+.card-title{text-align: center;font-size: 20px;}
+.card-text{text-align: center;font-size: 18px;}
+.btn-primary{width: 175px;background-color: rgb(240, 165, 53);
+    color: black;border: None;font-size: 20px;
+}
+.btn-primary:hover{background-color:rgb(14, 13, 12) !important;color: whitesmoke !important;border-radius: 15px;}
+.card{
+    width: auto;
+    height: auto !important;
+    margin-bottom: 25px;
+}
+    
+.footer{width: 100%;
+background-color: rgb(240, 165, 53);height: 70px;}
+
+.footer > div{text-align: center;}
+
+
+
+
+.dropdown-menu{width: 200px;}
+.dropdown-menu>a:hover{background-color:rgb(240, 165, 53) ;margin-bottom: -7px;margin-top: -7px;}
+.dropdown-item{height: 35px;}
+
+.nav-link:hover{background-color:rgb(14, 13, 12) ;border-radius: 15px;color: whitesmoke !important;}
+@media screen and (min-width: 768px){
+    .card-img-top{height: 450px !important}
+   
+
+}
+
+@media screen and (min-width: 992px){
+    .card-img-top{height: 450px !important}
+   
+  
+}
+
+
+@media screen and (max-width: 991px){
+    .dropdown-menu{width: 850px}  
+
+}
+
+@media screen and (max-width: 868px){
+    .dropdown-menu{width: 700px}  
+
+}
+@media screen and (max-width: 720px){
+    .dropdown-menu{width:550px}  
+
+}
+@media screen and (max-width: 570px){
+    .dropdown-menu{width:350px}  
+
+}
+
+
+
+@media screen and (max-width: 370px){
+    .dropdown-menu{width:290px}  
+
+}
+
+
